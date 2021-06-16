@@ -14,6 +14,16 @@ processing step before we can run more powerful algorithms to isolate lines.. </
 </ul>
 <h2>Test Image</h2>
 <img src="https://github.com/pdx97/computer-vision-lane-detection/blob/master/Images_for_Computer_Vision/TestImage.PNG" alt="TestImage">
+<h2>Gray Scale Image</h2>
+<img src="https://github.com/pdx97/computer-vision-lane-detection/blob/master/Images_for_Computer_Vision/grayscale.PNG" alt="TestImage">
+<h2>Smoothened Image</h2>
+<img src="https://github.com/pdx97/computer-vision-lane-detection/blob/master/Images_for_Computer_Vision/smoothening.PNG" alt="TestImage">
+<h2>Edge Detection</h2>
+<img src="https://github.com/pdx97/computer-vision-lane-detection/blob/master/Images_for_Computer_Vision/edgeDetection.PNG" alt="TestImage">
+<h2>Region of Interest</h2>
+<img src="https://github.com/pdx97/computer-vision-lane-detection/blob/master/Images_for_Computer_Vision/roi.PNG" alt="TestImage">
+<h2>Hough Line Transform</h2>
+<img src="https://github.com/pdx97/computer-vision-lane-detection/blob/master/Images_for_Computer_Vision/hough.PNG" alt="TestImage">
   
   
 
