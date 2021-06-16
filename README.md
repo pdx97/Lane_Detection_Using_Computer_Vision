@@ -24,6 +24,8 @@ processing step before we can run more powerful algorithms to isolate lines.. </
 <img src="https://github.com/pdx97/computer-vision-lane-detection/blob/master/Images_for_Computer_Vision/roi.PNG" alt="TestImage">
 <h2>Hough Line Transform</h2>
 <img src="https://github.com/pdx97/computer-vision-lane-detection/blob/master/Images_for_Computer_Vision/hough.PNG" alt="TestImage">
+<h2>Final Image After Correction</h2>
+<img src="https://github.com/pdx97/computer-vision-lane-detection/blob/master/Images_for_Computer_Vision/final.PNG" alt="TestImage">
   
   
 
