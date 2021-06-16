@@ -3,7 +3,7 @@
 <br>
 We Used various Computer Vision techniques to see how the Driverless Vehicle sees an Image and Processes it to navigate it self to be inside certain Region Of interest so Following the methods and steps  we Used </br>
 <ul>
-  <li>Step 1: We Captured the Image using a Webcam  and  collected the image</li>
+  <li>*Step 1*: We Captured the Image using a Webcam  and  collected the image</li>
   
   
 
