@@ -12,7 +12,8 @@ processing step before we can run more powerful algorithms to isolate lines.. </
   <li><b>Step 6</b>: Applied Hough Lines Transformation which helped to extract lines and draw its own lines on them by identifying all points that lie on them </li>
   <li><b>Step 7</b> : We need to identify left and right lanes so that we can calculate the slope and calculate the angle at which the servo motor should rotate and we were able to identify our Lanes Properly .</li>
 </ul>
-![Test Image](https://github.com/pdx97/computer-vision-lane-detection/blob/master/Images_for_Computer_Vision/TestImage.PNG)
+<h2>Test Image</h2>
+<img src="https://github.com/pdx97/computer-vision-lane-detection/blob/master/Images_for_Computer_Vision/TestImage.PNG" alt="TestImage">
   
   
 
